@@ -1,0 +1,21 @@
+{
+  "name": "money-mis-manage",
+  "version": "1.0.0",
+  "description": "A money management application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/MasterKrause/MoneyMis-Manage.git",
+  "keywords": [
+    "money"
+  ],
+  "author": "Christopher Krause",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.12"
+  },
+  "dependencies": {
+    "nan": "^2.1.0"
+  }
+}
